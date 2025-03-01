@@ -1,0 +1,15 @@
+{
+  "chainId": 101,
+  "address": "wn6eXnPKe6Biy11BkCvzCgJHaYiBKQHZhkXrCnZznMj",
+  "symbol": "RANNTA",
+  "name": "RNA",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/ilia144000/rannta-assets/main/image.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://rannta.com",
+    "twitter": "https://x.com/ranntacoin",
+    "youtube": "http://www.youtube.com/@ranntacoin",
+    "discord": "https://discord.gg/6qgSnrSC"
+  }
+}
