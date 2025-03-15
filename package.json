@@ -1,0 +1,13 @@
+{
+  "name": "rannata-token",
+  "version": "1.0.0",
+  "description": "A token for Rannata project on Solana Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ilia14400",
+  "license": "ISC",
+  "dependencies": {}
+}
